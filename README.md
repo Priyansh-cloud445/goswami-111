@@ -1,2 +1,2 @@
 # goswami-111
-frontend developers, c. expert.
+frontend developer, c. expert.
